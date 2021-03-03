@@ -17,7 +17,7 @@
     "lodash": "^4.17.12",
     "mongodb": "^3.5.5",
     "node-fetch": "^2.6.0",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "swagger-ui-express": "^4.1.4"
   }
 }
